@@ -1,0 +1,16 @@
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\EX 1.exe
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\EX 1.deps.json
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\EX 1.runtimeconfig.json
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\EX 1.runtimeconfig.dev.json
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\EX 1.dll
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\ref\EX 1.dll
+F:\GeekBrains\Lesson #1 (C#)\EX 1\bin\Debug\net5.0\EX 1.pdb
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.csprojAssemblyReference.cache
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.AssemblyInfoInputs.cache
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.AssemblyInfo.cs
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.dll
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\ref\EX 1.dll
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.pdb
+F:\GeekBrains\Lesson #1 (C#)\EX 1\obj\Debug\net5.0\EX 1.genruntimeconfig.cache
